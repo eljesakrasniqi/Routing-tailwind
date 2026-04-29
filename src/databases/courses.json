@@ -1,0 +1,14 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "name": "React js",
+            "desc": "Learn how to build beautiful, responsive layouts quickly using utility-first CSS classes without leaving your HTML."
+        },
+        {
+            "id": 2,
+            "name": "Angular",
+            "desc": "Learn how to build beautiful, responsive layouts quickly using utility-first CSS classes without leaving your HTML."
+        }
+    ]
+}

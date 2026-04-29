@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 
 import "./App.css";
+import Courses from "./pages/Courses";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/courses" element={<Courses />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Layout>
